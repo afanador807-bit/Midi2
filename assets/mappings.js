@@ -1,0 +1,1 @@
+window.MOTOR_RA_MATRIZ=Object.fromEntries(window.MOTOR_RA_MAPEO.subjects.map((O=>[O.name,O])));
